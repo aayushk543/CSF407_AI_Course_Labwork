@@ -7,9 +7,11 @@ This repository contains lab worksheets completed as part of my CS F407 AI cours
 ```text
 AI-Course-Labwork/
 │
-├── Lab-01/
-├── Lab-02/
-├── Lab-03/
+├── Agents_lab/           # Goal-Based Intelligent Agents (Warehouse Navigation)
+├── Search_lab/           # State-Space Search & A* Algorithm (Heuristics & Admissibility)
+├── Logic_lab/            # Logical Reasoning for Planning (STRIPS & Prolog Verifier)
+├── BN_lab/               # Bayesian Networks & Autoregressive Language Models
+├── Neural_network_lab/   # Neural Models: Learning, Depth, Activations & Output Layers
 └── README.md
 ```
 
