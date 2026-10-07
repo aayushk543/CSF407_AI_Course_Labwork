@@ -12,7 +12,7 @@ AI-Course-Labwork/
 ├── Logic_lab/            # Logical Reasoning for Planning (STRIPS & Prolog Verifier)
 ├── BN_lab/               # Bayesian Networks & Autoregressive Language Models
 ├── Neural_network_lab/   # Neural Models: Learning, Depth, Activations & Output Layers
-└── README.md
+└── README.md             # About this repo
 ```
 
 Each lab folder contains the corresponding source code, notebooks, datasets and other required files.
